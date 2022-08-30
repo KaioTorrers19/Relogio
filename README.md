@@ -1,2 +1,2 @@
 # Relogio
-*Relogio feito em JavaScript 
+#Relogio feito em JavaScript 
