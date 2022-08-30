@@ -45,3 +45,13 @@ body{
   font-size: 15px;
 }
 
+
+@media screen and (max-width: 600px) {
+  .relogio{
+    width: 350px;
+    height: 150px;
+  }
+  .relogio div{
+    margin-left: 10px;
+  }
+}
